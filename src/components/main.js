@@ -17,6 +17,7 @@ import Art6 from './art6';
 const Main = () => (
   <Switch>
     <Route exact path = "/" component={Startpage} />
+    <Route path = "/art" component={Startpage} />
     <Route path = "/artwork" component={Artwork} />
     <Route path = "/photography" component={Photography} />
     <Route path = "/design" component={Design} />
