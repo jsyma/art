@@ -7,13 +7,13 @@ class Startpage extends Component {
     return (
       <div>
         <Grid className="starting-grid">
-          <Cell col={12}>
-            <div className = "start-text">
-              <p>
-                Hello, my name is Jonathan Ma and i like creating things.
-              </p>
-            </div>
-          </Cell>
+        <Cell col={12}>
+          <div className = "start-text">
+            <p>
+              Hello, my name is Jonathan Ma and i like creating things.
+            </p>
+          </div>
+        </Cell>
 
           <Grid className = "start-bar" style = {{paddingTop: '1em', paddingBottom: '1em', paddingRight: '3em', width: '44%'}}>
             <div>
