@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import Tilt from 'react-tilt';
+import { Link } from 'react-router-dom';
 
 
 
@@ -11,9 +12,9 @@ class Artwork  extends Component {
       <Grid>
         <Cell col={3}>
           <Tilt>
-            <a href="./art1">
+            <Link className = "artwork1" to="/art1">
                 <img className = "art-1"  src="https://lh3.googleusercontent.com/RsLC5xJ1a5j2I3wB3QhutoCaD4Ig44Ehizt4gwIucwV9qRIT3HWOtaiwkjnemBJ__MA8TUmmU5nirNWVAJ5CQV7KG62H7G0Vs7dhGV4cTXlkH6W_f0RVWygwkwQGLcof_HYEPwzG7w=w2400" alt="art"></img>
-            </a>
+            </Link>
           </Tilt>
         </Cell>
         <Cell col={1}></Cell>

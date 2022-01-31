@@ -17,7 +17,7 @@ class Startpage extends Component {
 
           <Grid className = "start-bar" style = {{paddingTop: '1em', paddingBottom: '1em', paddingRight: '3em', width: '44%'}}>
             <div>
-              <a href = "./artwork">
+              <a href = "/artwork">
                 <img src="https://lh3.googleusercontent.com/SZ6ZsaALzR4_s0FwJyBuUSmV7JTjSyD05971EYB2D95Dv_9SWbOffAJg0Rm7ul4B2sx94Y7k66Zy5IC_hwH5KNEZFsZ-qDwKuQZE8Jkbp_4FN0Gj6T5VuM9DbZEbawNd62qBwUG4dA=w2400"
                      alt="articon"
                      width = '62px'

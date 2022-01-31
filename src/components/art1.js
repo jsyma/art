@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {Grid, Cell} from 'react-mdl';
 
+
 class Art1  extends Component {
   render () {
     return (
