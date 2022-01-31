@@ -19,7 +19,7 @@ class App extends Component {
         </Header>
         <Drawer className = "drawer-style" title={<Link style={{textDecoration: 'none', color:'black', overflow: 'hidden'}} to = "/"><h1 className = "home">Home</h1></Link>}>
             <Navigation className = "navi">
-              <Link className = "artwork-link2" to="/artwork"><p>Artwork</p></Link>
+              <Link className = "artwork-link2" to="/art1"><p>Artwork</p></Link>
               <Link className ="photography-link2" to="/photography"><p>Photography</p></Link>
               <Link className = "design-link2"to="/design"><p>Design</p></Link>
             </Navigation>
