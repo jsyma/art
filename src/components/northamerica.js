@@ -19,31 +19,31 @@ class Northamerica extends Component {
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/zEaUB4cZNUME5lgDS8fkReW_drpIOa7MuQsJll2O9fkDqsJ4Ms3hFJ95CnhXgLXRdbCC3b0s5U-tbc29SexjwDcZOv8BjksiockX0ufwcPxv9ab8tmlB7-Y7t-ndCrTLR2Zje4APfA=w2400"alt="na"></img>
-          <p>Mykonos, Greece</p>
+          <p>Sunset</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/MLkHFCnSH6KwiJwWorH1C3eQ5CrdzIB2nwRu9tA_5dbVf2thiuN7L5NduniQcqO9Wbfzf9FpTT94V0wtNyOfRdnC5pQg1aARVxGwOdAM5oxywUPzbrySQ5505QmSkwXo2rV-_0wusQ=w2400"alt="na"></img>
-          <p>se</p>
+          <p>Sunsets - 2</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/MTXS-rc5E5iL-6Fisp7s5Awk_NP81uU3Rspp_dhDgaFAKQaSkLjSKOmPo7y5ZhUJjN1JB6bEIuiy5TzpbZs4rb3VSF-7W6vMNc3ixd097FVXSq4jn1Y0NGVHA_DcHA5KY8E_0ZqqlA=w2400"alt="na"></img>
-          <p>se</p>
+          <p>Sunsets - 3</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/AwLdwC1rLtf0A5AF8VYjKvn39SgDxj0SwTyN-Ad0lXXmjuH42tCTcT9j6j0o4iUnMK0nyf1hJJnXkrMjkI_DTqYRYNnyI0mA9EYM2JmHuSMGRoPAsRhM-5PV8celeN1WiOCVRm6HCg=w2400"alt="na"></img>
-          <p>se</p>
+          <p>Cool Cloud Formation</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/oDvdRcglTmf0QaRjidY2gWHfyKwKE3hZJWqEVgAG0Kd1Oa3mM6rj5zo1eBLJlE2WZEMab4-irEZhyWGaf0KEGYG1uY_jiQEIm1FYouOfEA8XRuISUYy7S1CmRr27gZZcFLODy4_XOw=w2400"alt="na"></img>
-          <p>se</p>
+          <p>Cool Cloud Formation - 2</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/9TynFhqut646xp0gD0NFjBg11EFXhrjrpg0188K0_7cr-En6ykh_rGL_nzvXxv0AF5joHIU_C6atSQ4yVAncq1x4S4EE3S5HqWkYe65HlqX7VPqBrghh0NE7gJVhlGgm25aVSnaXlg=w2400"alt="na"></img>
-          <p>se</p>
+          <p>Flowerpot Island</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/f_1PPi4exOHC7eZuPAvF2iqPoR36SvYtvEY_-j4KiW4142UamDAOQ6jij5WVeZ2B7QJ3CIF_gftuc5Dvu9rcCVBMJfoaJWcK1fHfbjb5C741-KKZlpqk1O2rIFjvV5JLX9qR3TpGCA=w2400"alt="na"></img>
-          <p>Flowerpot Island</p>
+          <p>Flowerpot Island - 2</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/e3Owk0uONS2Kch7NcRmIM6plk3t14uVM5u3ejrnwmpCyoYulSxCf2wCsAQvzN8DIIKzCpm40mun-vPN4unZGh11zSBGbe8u3hqxh17t6pCbWUYHwLjou-lokedeIzXL3Haic2hmLPA=w2400"alt="na"></img>
@@ -130,19 +130,19 @@ class Northamerica extends Component {
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/uXTCG7fSwBqXPdpkgtXQN8m9-3dMoi7_OVrUSdrd7ba022yjbxRjABeko1peP_WsVHCvhC--a8Xmt_H_BpLgyshzKI3W2aDJ-ICfL6rkccmaiQIUmVOrrxSokwOijQOdk1U6iz3CRw=w2400"alt="na"></img>
-          <p>The Iconic Hollywood Sign</p>
+          <p>Grundy Lake</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/OGDCDFPkMFgHTMGsN8ddeYAIXkPZu5y46Wdu7bi7TYGh1gpG7cJoCgwKrMMZHyLwUnPSdezizYRuDNSK6TMlPfy0WD1ZvxMeAFLYj2ZH-AgFWUTityfS6r31Gt0thwqvXkIoH-aXIA=w2400"alt="na"></img>
-          <p>The Iconic Hollywood Sign</p>
+          <p>Grundy Lake - 2</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/akDiKlTkSM_ppB0LC--SsVAO92EYBassLUOJsD6YS2r5Vrf3H9XRSJp09CLSJwOuq6qGi3GKUXS1T3UPQkiWEbK2DMEhjm1YFgfH4zu_xWZl2Rt7YLBdg1XP6_roIChH2ARyAVQwfQ=w2400"alt="na"></img>
-          <p>The Iconic Hollywood Sign</p>
+          <p>Sunset at Grundy Lake</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/jgy2zil-CeOIrL5o2Beijkc1rWRUALnXBiBgYaABIkmdwjOvm5hzqDaXjflA04CkjZ0xwPfwSNOsDzwp4xPtSO6jmH25UD0OqZKNJE1f0HnO0sfwth1uTmxPq83dqnpzXf8lfWDpgA=w2400"alt="na"></img>
-          <p>The Iconic Hollywood Sign</p>
+          <p>Sunset at Grundy Lake - 2</p>
         </div>
         <div>
             <img src="https://lh3.googleusercontent.com/XsW9j-hmSKBbIWBzSFG6SkrlmA7jM0hYmwIaExHYz4oOurNaOOXJ8gmBKaNPwVLNMhYPJOwpfcTi8ymbiQPcM5csV1lpbi0ZeG55r8qkuZRplc_sONy72_7TPEGjNKx5pJCZm_qVSw=w2400"alt="na"></img>

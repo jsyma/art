@@ -79,11 +79,11 @@ if(this.state.activeTab === 0){
       </div>
       <div>
         <img src="https://lh3.googleusercontent.com/M3xgKzxWSWRinm46armfZP9iKTkjhSiErtYcagW9adnxb4Bee7TidTlyJjvIZaMcyNpUaaN1EK0lsaHFfGi_1sS6ygUf7gO_HVLc606WKHnQ_6uGNKrz9Whbdu--i3WxPVblCpYyBg=w2400"alt="eu"></img>
-        <p>s</p>
+        <p>Views of Italy</p>
       </div>
       <div>
         <img src="https://lh3.googleusercontent.com/GeQDUKBzDMIa-T2vs3iG5OGMa0egIT_WwJO2FX_8AKDFY__uLR9gEYKqwDR_VXBk5QAMBBBz3TCvG0I6HTEui4zIOy8bRa4QKAX_aDAcujc0aLfqijZf--5GmqMqlW-Gu49MVZBRKQ=w2400"alt="eu"></img>
-        <p>Heelllooo</p>
+        <p>Views of Italy - 2</p>
       </div>
       <div>
         <img src="https://lh3.googleusercontent.com/EcfizMf_C3Y1OxEcH5WzJNdoBgodjFv7hP1o7OxljYsJ-LyB7G4cacct9qdvSyJQGusOJaJehSC73EVsKHXghcqFGRhzPmQNzoADj1UmG_aI-H4h1o1AhuIsehwbrJ2KOYoV703fQg=w2400"alt="eu"></img>

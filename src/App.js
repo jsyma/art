@@ -4,7 +4,7 @@ import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl';
 import Main from './components/main';
 import { Link } from 'react-router-dom';
 import { Router, Switch, Route } from 'react-router-dom';
-import { Grid, Cell } from 'react-mdl';
+
 
 class App extends Component {
   render () {
@@ -23,8 +23,6 @@ class App extends Component {
               <Link className = "artwork-link2" to="/artwork"><p>Artwork</p></Link>
               <Link className ="photography-link2" to="/photography"><p>Photography</p></Link>
               <Link className = "design-link2"to="/design"><p>Design</p></Link>
-              <Link className = "art1"to="/art1"><p>Art1</p></Link>
-              <Link className = "europe"to="/europe"><p>Europe</p></Link>
             </Navigation>
         </Drawer>
         <Content>

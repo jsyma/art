@@ -307,23 +307,6 @@
   font-size: 16px;
 }
 
-/*
-.picture1 {
-  background-image: url("./images/CardCoverLandscape.jpeg");
-  background-position: center;
-  background-size : auto;
-  background-repeat:no-repeat;
-  justify-content: space-around;
-}
-
-.picture1 h1{
-  padding-top: 11em;
-  padding-right: 50em;
-  padding-left: 50em;
-  font-family : "Sriracha";
-}
-*/
-
 /*Photography-Landscapes Tab */
 
 .europe-link h1{
@@ -548,6 +531,49 @@
   margin-left: 10%;
 }
 
+/*Design Grid*/
+
+.design-grid{
+  padding: 3em;
+  height: 100%;
+  background-image: url("https://lh3.googleusercontent.com/0e8aUOWuydJAaoPs5qnTA9qQ3jeY1PeWs5y7wQ3rmbQfAhKAb1MOIUJJm_5kbPLISGVW6Cqjtz7H4IEMU1GIwMo953EANThNFlkF_iFfPTxiicE2B-WtORzkmZCUJoEmVv9PtbVb3w=w2400");
+}
+
+
+.design-1 img{
+  display: block;
+  max-width: 80%;
+  positive: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2em;
+}
+
+.hover-design {
+  padding-bottom: 10em;
+  width: 100%;
+  padding: 150px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  font-size: 60px;
+  font-family : "Sriracha";
+  color: #a00909;
+  -webkit-text-stroke: 1.2px black;
+}
+
+.hover-design{
+  visibility: none;
+  opacity: 0;
+  transition: opacity 1.2s;
+}
+
+.design-1 :hover.hover-design{
+  visibility: visible;
+  opacity: 1;
+  transform: scale(1.2);
+  transition: transform 0.3s;
+}
 
 /*Europe Carousel*/
 
@@ -600,13 +626,12 @@
 }
 
 
-
 /*Memories*/
 
 .memories-carousel{
   padding: 5em;
   border: 1px solid black;
-  
+
 }
 
 .memories-carousel img{
@@ -614,4 +639,34 @@
   display: flex;
   align-items: baseline;
 
+}
+
+/*desole*/
+
+.desole-carousel{
+  padding-top: 2em;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 20em;
+  background-image: url("https://lh3.googleusercontent.com/0e8aUOWuydJAaoPs5qnTA9qQ3jeY1PeWs5y7wQ3rmbQfAhKAb1MOIUJJm_5kbPLISGVW6Cqjtz7H4IEMU1GIwMo953EANThNFlkF_iFfPTxiicE2B-WtORzkmZCUJoEmVv9PtbVb3w=w2400");
+}
+
+.desole-carousel img2{
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+}
+
+.desole-carousel img{
+  width: 88%;
+  display: flex;
+  align-items: baseline;
+  border: 2px solid black;
+}
+
+.desole-text{
+  padding: 3em;
+  font-size: 16px;
+  padding-bottom: 1em;
+  font-family: "Sriracha";
 }

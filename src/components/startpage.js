@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
-
+import {Link} from 'react-router-dom';
 
 class Startpage extends Component {
   render () {
@@ -17,29 +17,29 @@ class Startpage extends Component {
 
           <Grid className = "start-bar" style = {{paddingTop: '1em', paddingBottom: '1em', paddingRight: '3em', width: '44%'}}>
             <div>
-              <a href = "/artwork">
+              <Link to = "/artwork">
                 <img src="https://lh3.googleusercontent.com/SZ6ZsaALzR4_s0FwJyBuUSmV7JTjSyD05971EYB2D95Dv_9SWbOffAJg0Rm7ul4B2sx94Y7k66Zy5IC_hwH5KNEZFsZ-qDwKuQZE8Jkbp_4FN0Gj6T5VuM9DbZEbawNd62qBwUG4dA=w2400"
                      alt="articon"
                      width = '62px'
                      >
                 </img>
-              </a>
+              </Link>
             </div>
             <div>
-              <a href = "./photography">
+              <Link to = "/photography">
                 <img src = "https://i.pinimg.com/originals/8e/e9/10/8ee910c3153cb8f1a802a59337533e7a.png"
                      alt="photoicon"
                      width = '61px'>
                 </img>
-              </a>
+              </Link>
             </div>
             <div>
-              <a href = "./design">
+              <Link to = "/design">
                 <img src = "https://i1.wp.com/clipground.com/images/neon-lamp-clipart-10.jpg"
                      alt="designicon"
                      width = '61px'>
                 </img>
-              </a>
+              </Link>
             </div>
           </Grid>
 

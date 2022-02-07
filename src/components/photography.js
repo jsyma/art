@@ -44,9 +44,9 @@ if(this.state.activeTab === 0){
     <br/>
     <Tilt>
       <Card className = "europe-card" shadow={6} style={{width: '440px', margin: 'auto'}}>
-        <a href = "./europe">
+        <Link  to ="/europe">
         <CardTitle style={{ height: '250px', background: 'url(https://lh3.googleusercontent.com/x-LpA4enaXZmN0GppNKVrLJaDvTLuVpQ_FSFfFKkcyqzshwX9S8dw_4CGwYBEIckSUV4cy98bcWB9wmnIgGtjNz5oEMpXKhCDWnniID5kH88FjBqhEbVRdIf6Bp3LF47-GTh-GsHnQ=w2400) center / cover'}}>    </CardTitle>
-        </a>
+        </Link>
           <CardActions className = "europe-link">
             <Link style={{textDecoration: 'none', color:'black'}} to = "/europe"><h1>Europe</h1></Link>
           </CardActions>
@@ -55,9 +55,9 @@ if(this.state.activeTab === 0){
         <br/><br/>
     <Tilt>
       <Card shadow={6} style={{width: '440px', margin: 'auto'}}>
-      <a href = "./northamerica">
+      <Link to = "/northamerica">
       <CardTitle style={{ height: '250px', background: 'url(https://lh3.googleusercontent.com/YO43aFY4kbf7hzRz0zK3FwVErV6ghQv4qi6WK6qtXmtd4xOX9r0ReLsnL8ElXF6Qp5zoe70fLCbC6RZh5-wOxnJMLErfPeDc_pEbciH1nnG-6aGl8IxD-qVBzTRDQ_9PhiRYfjxcEw=w2400) center / cover'}}></CardTitle>
-      </a>
+      </Link>
           <CardActions className = "na-link">
             <Link style={{textDecoration: 'none', color:'black'}} to = "/northamerica"><h1>North America</h1></Link>
           </CardActions>

@@ -1,45 +1,21 @@
 import React, { Component } from 'react';
-import Carousel2 from 'react-multi-carousel';
-import 'react-multi-carousel/lib/styles.css';
+import Tilt from 'react-tilt';
 
-const Responsive = {
-  widescreen:{
-    breakpoint: {max:3000, min:1999},
-    items:5,
-    slidesToSlide: 4
-  },
-
-  Desktop: {
-    breakpoint: {max: 1999, min: 1024},
-    items:3,
-    slidesToSlide: 3
-  },
-  tablet:{
-    breakpoint: {max: 1024, min: 464},
-    items: 2,
-    slidesToSlide: 2
-  },
-  mobile:{
-    breakpoint: {max:464, min:0},
-    items: 1
-  }
-};
-
+import { Link } from 'react-router-dom';
 
 class Design extends Component {
     render() {
         return (
-          <Carousel2 responsive={Responsive}>
-            <div>0</div>
-            <div>1</div>
-            <div>2</div>
-            <div>3</div>
-            <div>4</div>
-            <div>5</div>
-            <div>6</div>
-          </Carousel2>
-
-
+          <div className = "design-grid">
+            <div className = "design-1" >
+                <Tilt>
+                  <Link to="/desole">
+                      <img  src="https://lh3.googleusercontent.com/L1lN4Wx4Nz53r6EEUpUj8fltIDJUY1iKkvsBy4-F59Si3dBbfRrIQy5pdouT1IGGE80LzmxI0N5pPERFroT7STkW9GxAuC0t_NIQsvWmFFDGQUDw275QjphUlZ4BbA2ZFcVLQ6wQWw=w2400" alt="desole"></img>
+                      <div className = "hover-design">désolé</div>
+                  </Link>
+                </Tilt>
+            </div>
+        </div>
         );
     }
 };

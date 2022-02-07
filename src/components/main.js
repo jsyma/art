@@ -12,6 +12,7 @@ import Art3 from './art3';
 import Art4 from './art4';
 import Art5 from './art5';
 import Art6 from './art6';
+import Desole from './desole';
 
 
 const Main = () => (
@@ -29,6 +30,7 @@ const Main = () => (
     <Route path = "/art4" component={Art4}/>
     <Route path = "/art5" component={Art5}/>
     <Route path = "/art6" component={Art6}/>
+    <Route path = "/desole" component={Desole}/>
   </Switch>
 )
 
