@@ -646,7 +646,6 @@
 .desole-carousel{
   padding-top: 2em;
   padding-left: 4em;
-  padding-right: 4em;
   padding-bottom: 20em;
   background-image: url("https://lh3.googleusercontent.com/0e8aUOWuydJAaoPs5qnTA9qQ3jeY1PeWs5y7wQ3rmbQfAhKAb1MOIUJJm_5kbPLISGVW6Cqjtz7H4IEMU1GIwMo953EANThNFlkF_iFfPTxiicE2B-WtORzkmZCUJoEmVv9PtbVb3w=w2400");
 }
@@ -665,8 +664,7 @@
 }
 
 .desole-text{
-  padding: 3em;
-  font-size: 16px;
-  padding-bottom: 1em;
+  padding-top: 2em;
+  font-size: 28px;
   font-family: "Sriracha";
 }

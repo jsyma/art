@@ -24,7 +24,6 @@ const Responsive = {
   }
 };
 
-
 class Desole extends Component {
     render() {
         return (
@@ -49,11 +48,10 @@ class Desole extends Component {
               <img src="https://lh3.googleusercontent.com/KYEyn_LXNW_Dnv0TJm9ByrhxUJtlcx6ajoxiquXKMguC8XiyODFbpmIEFk4_svlMYeGWCpn90DU-jEqJb18Hnm_lydC94B5W0eE-x6j4vRqhMRZGaPF2yP_sJBiAHduJcsZiPWonEg=w2400" alt="desole"></img>
               <img src="https://lh3.googleusercontent.com/oqusbBkGA_a9fpX-LebbrQCxPxoIuBTaZIKLMLTQ64KYYOpN0YDHf7LmhKNodI0M_VfQUeRVsvhrEH87ZR4tKAy5-z4etXHD5FVG-30Tl-YmICwfCPhUwD-I1FK1fST4b0fjVtO2-A=w2400" alt="desole"></img>
             </div>
+            <div className = "desole-text">
+              désolé
+            </div>
           </Carousel2>
-
-
-
-
         );
     }
 };
